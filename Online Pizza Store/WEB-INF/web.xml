@@ -1,0 +1,14 @@
+<web-app>
+
+<context-param>
+<param-name>dbuname</param-name>
+<param-value>hr</param-value>
+</context-param>
+
+
+<context-param>
+<param-name>dbpass</param-name>
+<param-value>1234</param-value>
+</context-param>
+
+</web-app>
